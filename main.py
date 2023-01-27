@@ -57,7 +57,7 @@ for it in range(ITERATIONS):
         
         p1, p2 = selection(pop, scores), selection(pop, scores)
         
-        c1,c2 = p1.order_crossover(p2)
+        c1, c2 = p1.order_crossover(p2)
 
         if rand()<MUTATION_RATE: c1.mutate()
         if rand()<MUTATION_RATE: c2.mutate()
