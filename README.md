@@ -2,10 +2,10 @@
 
 ### Problem Defintion
 
-given N jobs and their durations (in indivisible time units) and 5 workers.
+given n jobs and their durations (in indivisible time units) and 5 workers.
 ```math
 \begin{flalign}
-& j_1, j_2, ... j_N &
+& j_1, j_2, ... j_n &
 \end{flalign}
 ```
 ```math
