@@ -3,7 +3,7 @@ from numpy.random import rand, randint, shuffle
 import matplotlib.pyplot as plt 
 
 POP_SIZE = 2000
-ITERATIONS = 150
+ITERATIONS = 200
 MUTATION_RATE = 0.1
 TASKS_CNT = 80
 
