@@ -41,6 +41,6 @@ timespan reduction with each iteration:
 
 ![http://url/to/img.png](https://github.com/markshapiro/schedule-planning-genetic-algorithm/raw/main/iterations.jpg)
 
-bst solution for 5 workers accross 6 days:
+best solution for 5 workers accross 6 days:
 
 ![http://url/to/img.png](https://github.com/markshapiro/schedule-planning-genetic-algorithm/raw/main/timetable.jpg)
