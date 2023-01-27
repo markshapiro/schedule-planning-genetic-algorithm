@@ -31,7 +31,7 @@ the goal is to create time schedule where all jobs would be assigned to workers 
 
 ### Solution
 
-crossover and mutation in GA inspired by this paper https://www.researchgate.net/publication/281545095_SOLVING_JOB_SHOP_SCHEDULING_PROBLEM_WITH_GENETIC_ALGORITHM
+crossover and mutation in GA inspired by this paper: https://www.researchgate.net/publication/281545095_SOLVING_JOB_SHOP_SCHEDULING_PROBLEM_WITH_GENETIC_ALGORITHM
 
 ### Sample Run
 
