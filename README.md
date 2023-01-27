@@ -37,7 +37,7 @@ crossover and mutation in GA inspired by this paper https://www.researchgate.net
 
 example run for randomly generated jobs:
 
-timespan reduction with each iteration:
+makespan reduction with each iteration:
 
 ![http://url/to/img.png](https://github.com/markshapiro/schedule-planning-genetic-algorithm/raw/main/iterations.jpg)
 
