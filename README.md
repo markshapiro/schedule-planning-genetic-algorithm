@@ -35,12 +35,12 @@ crossover and mutation in GA inspired by this paper https://www.researchgate.net
 
 ### Sample Run
 
-example run for random jobs generation:
+example run for randomly generated jobs:
 
 timespan reduction with each iteration:
 
 ![http://url/to/img.png](https://github.com/markshapiro/schedule-planning-genetic-algorithm/raw/main/iterations.jpg)
 
-final time schedule for 5 workers accross 6 days:
+bst solution for 5 workers accross 6 days:
 
 ![http://url/to/img.png](https://github.com/markshapiro/schedule-planning-genetic-algorithm/raw/main/timetable.jpg)
