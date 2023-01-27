@@ -2,7 +2,7 @@
 
 ### Problem Defintion
 
-given n jobs and their durations (in indivisible time units) and 5 workers.
+given n jobs, their durations (between 3 and 9 indivisible time units) and 5 workers.
 ```math
 \begin{flalign}
 & j_1, j_2, ... j_n &
