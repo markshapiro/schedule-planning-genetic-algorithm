@@ -78,8 +78,8 @@ for it in range(ITERATIONS):
 print("--------------------")
 bestSolution.printColor()
 print("--------------------")
-bestSolution.printAscii()
-print("--------------------")
+# bestSolution.printAscii()
+# print("--------------------")
 print("best makespan = ",bestSolution.makespan())
 
 plt.plot(range(len(makespanHistory)), makespanHistory) 
