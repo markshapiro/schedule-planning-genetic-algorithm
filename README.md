@@ -19,7 +19,7 @@ given n jobs, their durations (between 3 and 9 indivisible time units) and 5 wor
 \end{flalign}
 ```
 
-the goal is to create time schedule where all jobs would be assigned to workers while minimizing the timespan (time between start of 1st task and finish of last) using following rules:
+the goal is to create time schedule where all jobs would be assigned to workers while minimizing the timespan (time between start of 1st job and finish of last) using following rules:
 1) each worker can only work on 1 job per time
 2) each job can be assigned to 1 or 2 workers (out of any 5 workers)
 3) order of job execution doesn't matter
