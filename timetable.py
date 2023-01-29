@@ -190,4 +190,5 @@ class TimeTable:
                     
                 scheduleString+=char*dur
             print(scheduleString)
+            print(scheduleString)
         

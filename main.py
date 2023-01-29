@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 POP_SIZE = 2000
 ITERATIONS = 200
-MUTATION_RATE = 0.1
+MUTATION_RATE = 0.2
 TASKS_CNT = 80
 
 MIN_DUR = 3
